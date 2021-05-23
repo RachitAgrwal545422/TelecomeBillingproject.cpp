@@ -2,13 +2,11 @@
                                                               ----------------------------
  #Devloper(1).
             Name.                Rachit Agrawal
-            Roll No.             201210035
             Email1.              201210035@nitdelhi.ac.in
             Email2               rachitagrawal545422@gmail.com
             Phone no.            6394842628
  #Devloper(2).
             Name.                 Palak Talwar.
-            Roll No.              201210033
             Email1.               201210033@nitdelhi.ac.in
             Email2.               palaktalwar0659@gmail.com
             Phone no.             7014152671
