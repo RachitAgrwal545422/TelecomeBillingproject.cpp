@@ -1,6 +1,6 @@
 //This is a Telecom billing project//
-/*Created by Rachit Agrawal 201210035*/
-/*Palak Talwar 201210033*/
+/*Created by Rachit Agrawal */
+/*Palak Talwar */
 #include<stdio.h>
 #include<string.h>
 #include<stdlib.h>
