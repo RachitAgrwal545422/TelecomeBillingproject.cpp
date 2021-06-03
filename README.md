@@ -5,13 +5,11 @@ This is our First semester project. This is a mini Telecome billing system Where
                                                                    ----------------------------
  #Devloper(1).
             Name.                Rachit Agrawal
-            Email1.              201210035@nitdelhi.ac.in
-            Email2               rachitagrawal545422@gmail.com
+            Email.               rachitagrawal545422@gmail.com
             Phone no.            6394842628
  #Devloper(2).
             Name.                 Palak Talwar.
-            Email1.               201210033@nitdelhi.ac.in
-            Email2.               palaktalwar0659@gmail.com
+            Email.                palaktalwar0659@gmail.com
             Phone no.             7014152671
 //In this project we are giving these options to the person.
     L.        To get a list of all accounts.
