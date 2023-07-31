@@ -1,54 +1,47 @@
 # TelecomeBillingproject.cpp
-This is our First semester project. This is a mini Telecome billing system Where we can store our Data and do some operation on it.
+Our first semester project is a mini Telecom billing system. It allows us to store data and perform various operations on it.
 
-      ***************************************************************TELECOME BILLING PROJECT**************************************************
-                                                                   ----------------------------
- #Devloper(1).
-            Name.                Rachit Agrawal
-            Email.               rachitagrawal545422@gmail.com
-            Phone no.            6394842628
- #Devloper(2).
-            Name.                 Palak Talwar.
-            Email.                palaktalwar0659@gmail.com
-            Phone no.             7014152671
+
+<br/>
 //In this project we are giving these options to the person.
-    L.        To get a list of all accounts.
-    A.       For adding accounts.
-    M.       To modify an account.
-    S.        To search the details of an account.
-    P.        To get the amount of an account.
-    D.       To Delete an account.
-    E.       To exit from the system.
-    In case you print any  option other than these then it will inform you.
-
+<ul>
+     <li> L.        To get a list of all accounts.</li>
+     <li> A.       For adding accounts.</li>
+     <li> M.       To modify an account.</li>
+     <li> S.        To search the details of an account.</li>
+     <li> P.        To get the amount of an account.</li>
+     <li>D.       To Delete an account.</li>
+     <li>E.       To exit from the system.</li>
+</ul>
+    In case you print any  option other than these then it will inform you.<br/>
  #option(A).
-    First it will ask you to enter the no of records you want to add.
-    Then it will take the information of these accounts.
-    To every account it will assign a account no that you will use for further operations.
-    Your all data will be saved in .txt file named listofrec.txt.
+    First it will ask you to enter the no of records you want to add.<br/>
+    Then it will take the information of these accounts.<br/>
+    To every account it will assign a account no that you will use for further operations.<br/>
+    Your all data will be saved in .txt file named listofrec.txt.<br/>
  #option(L).
-    It will show you a list of all accounts with their information so that you can see all accounts and compare them easily.
+    It will show you a list of all accounts with their information so that you can see all accounts and compare them easily.<br/>
  #option(S).
-    Here you can search the details of any one of the account.
-    Again for searching you should have account no. and name.
-    then he will ask you to store it in .txt format or not press d for download or any number to exit data will be saved in searchedrec.txt.
+    Here you can search the details of any one of the account.<br/>
+    Again for searching you should have account no. and name.<br/>
+    then he will ask you to store it in .txt format or not press d for download or any number to exit data will be saved in searchedrec.txt.<br/>
  #option(M).
-    To modify a account you must have access to that account and for that you must have name and account no. of the account.
-    Enter the right account no and name.
-    Now you can access all information.
-    If you enter the wrong information then it will give you operation to enter again or exit from the operation.
-    You have to enter all the information again.
+    To modify a account you must have access to that account and for that you must have name and account no. of the account.<br/>
+    Enter the right account no and name.<br/>
+    Now you can access all information.<br/>
+    If you enter the wrong information then it will give you operation to enter again or exit from the operation.<br/>
+    You have to enter all the information again.<br/>
  #option(P).
-    I added this operation just for the convenience of user so that he can directly see the details of amount of the account holder.
-    For this operation he/she must have account no. and name of the account holder.
+    I added this operation just for the convenience of user so that he can directly see the details of amount of the account holder.<br/>
+    For this operation he/she must have account no. and name of the account holder.<br/>
  #option(D).
-    Suppose if a person does not want to have account in it then we have an option to delete account of the person so that we can add more accounts.
-    Simply we must have account no and name of the account holder.
+    Suppose if a person does not want to have account in it then we have an option to delete account of the person so that we can add more accounts.<br/>
+    Simply we must have account no and name of the account holder.<br/>
  #option(E).
-    This operation is to exit from the project.
-    Simply give output as E and you can exit.
+    This operation is to exit from the project.<br/>
+    Simply give output as E and you can exit.<br/>
  #Wrong operation
-    What if a person gives input as e?
-    Then in that case it would simply show that you have entered wrong operation so please enter a right operation.
-************************************************************************************************************************************************************
+    What if a person gives input as e?<br/>
+    Then in that case it would simply show that you have entered wrong operation so please enter a right operation.<br/>
+************************************************************************************************************************************************************<br/>
 
